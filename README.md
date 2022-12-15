@@ -2,6 +2,10 @@
 
 **`Digital Craftsman (Developer/Designer)`**
 
+I'm an indie full-stack developer building the stuffs that help and enjoy people. I build all my projects from ground up, from planing and designing all the way to look beautiful with rich feature. 
+
+![https://twitter.com/rushikesh1s](https://img.shields.io/twitter/url?style=social)
+
 - 👋 Hi, I’m @RushikeshGandhmal
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
