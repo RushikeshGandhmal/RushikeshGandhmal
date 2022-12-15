@@ -1,5 +1,7 @@
 # 🏄‍♂️ Rushikesh Gandhmal
 
+** `Digital Craftsman (Developer/Designer)` **
+
 - 👋 Hi, I’m @RushikeshGandhmal
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
