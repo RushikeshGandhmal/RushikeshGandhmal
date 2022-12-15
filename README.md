@@ -1,6 +1,5 @@
-<p align="center">
-  <a color="#F7388DFF" href="https://github.com/RushikeshGandhmal">
-    Rushikesh Gandhmal</a>  
+<p align="center">   
+  <a href="https://github.com/RushikeshGandhmal"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=0001&pause=1000&color=F7388D&center=true&width=435&lines=Rushikesh+Gandhmal" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
