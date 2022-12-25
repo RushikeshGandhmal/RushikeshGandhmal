@@ -32,7 +32,6 @@ I'm an indie full-stack developer building the stuffs that help and enjoy people
 
 #
 
-Connect on : <br/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-gandhmal/)
