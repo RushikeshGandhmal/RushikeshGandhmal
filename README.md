@@ -32,6 +32,15 @@ I'm an indie full-stack developer building the stuffs that help and enjoy people
 
 #
 
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=meomkarchavan) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meomkarchavan) 
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13245106/omkar-chavan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omkarchavan.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://stackoverflow.com/users/13245106/omkar-chavan)
+
+#
+
 <details>
  <summary><h3>👨‍💻 Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself web development with a dream to build my own app. A desire that landed me a software engineering job upon graduation. Intially i tried a lot's of coding lanuages like python, C, C++, Javascript, and their framworks(if any) basically utill and unless it's code i was okay. I tried mulitple falvours. Ended with working with Java in my first company. Currently exploring Javascript world with focused on Frontend with Reactjs.
