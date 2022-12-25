@@ -40,8 +40,6 @@ Connect on : <br/>
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@rushikeshdotjs) 
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20455902/rushikesh-js)
 
-<br />
-
 
 #
 
