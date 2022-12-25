@@ -37,6 +37,7 @@ I'm an indie full-stack developer building the stuffs that help and enjoy people
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13245106/omkar-chavan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omkarchavan.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://stackoverflow.com/users/13245106/omkar-chavan)
+<br />
 
 #
 
