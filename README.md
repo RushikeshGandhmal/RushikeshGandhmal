@@ -51,6 +51,10 @@ I'm an indie Full-stack developer, building the stuffs that help and enjoy peopl
 
 #
 
+<br/>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/rushikeshgandhmal?theme=dark&font=source_code_pro&extension=null)
+
 <details>
  <summary><h3>👨‍💻 Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself web development with a dream to build my own app. A desire that landed me a software engineering job upon graduation. Intially i tried a lot's of coding lanuages like python, C, C++, Javascript, and their framworks(if any) basically utill and unless it's code i was okay. I tried mulitple falvours. Ended with working with Java in my first company. Currently exploring Javascript world with focused on Frontend with Reactjs.
