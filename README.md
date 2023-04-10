@@ -53,7 +53,7 @@ I'm an indie Full-stack developer, building the stuffs that help and enjoy peopl
 
 <br/>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/rushikeshgandhmal?theme=dark&font=source_code_pro&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/rushikeshgandhmal?theme=dark&font=baloo&extension=null)
 
 <details>
  <summary><h3>👨‍💻 Coding Journey</h3></summary>
