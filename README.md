@@ -29,8 +29,8 @@ I'm an indie Full-stack developer, building the stuffs that help and enjoy peopl
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" />
 
+<img align="left" alt="PL/SQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" />
 <img align="left" alt="PL/SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
-<a style="padding-right:8px; display: inline;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
