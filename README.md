@@ -1,8 +1,8 @@
 <p align="center">   
   <a href="https://github.com/RushikeshGandhmal"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=0001&pause=1000&color=F7388D&center=true&width=435&lines=Rushikesh+Gandhmal" alt="Typing SVG" /></a>
   <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7388D&center=true&width=435&lines=%F0%9F%92%BB+Full-stack+web+developer+!;1.6%2B+years+of+coding+experience+!;Always+learning+new+things+!" alt="Typing SVG" /></a>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=4000&pause=1000&color=F7388D&vCenter=true&width=435&lines=Detail-Oriented+Full-stack+web+Developer+!" alt="Typing SVG" /></a>
 </p>
 </p>
 
