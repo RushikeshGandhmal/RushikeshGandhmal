@@ -29,8 +29,8 @@ I'm an indie Full-stack developer, building the stuffs that help and enjoy peopl
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" />
 
-<img align="left" alt="PL/SQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" /> <br/>
-<img align="left" alt="PL/SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
+<img align="left" alt="MY-SQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" /> <br/>
+<img align="left" alt="PL/SQL" width="30px" style="padding-right:10px;" src="icons/postgresql-original-wordmark.svg" />
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -42,6 +42,13 @@ I'm an indie Full-stack developer, building the stuffs that help and enjoy peopl
 
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/firebase.png" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+
+
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="icons/docker-original-wordmark.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="icons/kubernetes-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="icons/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="RabbitMQ" width="30px" style="padding-right:10px;" src="icons/rabbitmq-original.svg" />
+
 
 
 <br />
