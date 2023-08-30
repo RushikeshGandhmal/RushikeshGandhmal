@@ -7,7 +7,7 @@
 
 
 
-I'm an indie Full-stack developer, building the stuffs that help and enjoy people. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm an indie Full-stack web developer, building the stuffs that help and enjoy people. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ---
 
