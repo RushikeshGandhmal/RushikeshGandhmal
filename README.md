@@ -42,7 +42,7 @@ I'm an indie Full-stack web developer, building the stuffs that help and people 
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" />
 
 
-<br />
+
 <br />
 
 #
