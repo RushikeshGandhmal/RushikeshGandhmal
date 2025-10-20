@@ -68,11 +68,8 @@ I'm an indie Full-stack web developer, building the stuffs that help and people 
   </summary>
 
   <p align="left">
-    
-    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world — code, Unix, Linux, theory.  
-    All the while, teaching myself web development with a dream to build my own app — a desire that landed me a software engineering job upon graduation.  
-    Initially, I tried many languages like Python, C, C++, and JavaScript (and their frameworks, if any) — basically, if it was code, I was in!  
-    I experimented with multiple flavors and eventually worked with Java in my first company.  
-    Currently, I’m exploring the JavaScript world with a focus on frontend development using React.js.
+    I began my coding journey as a curious computer science student eager to explore everything about programming — from core concepts to real-world applications.
+    Along the way, I taught myself web development with a dream of building my own app, which eventually helped me land my first software engineering role. I’ve since worked with multiple languages - Python, C, C++, Java, and JavaScript.
+    Recently, I’ve been exploring Artificial Intelligence, focusing on Large Language Models (LLMs) and emerging AI trends such as generative applications and intelligent developer tools — learning how they can       transform the way we build and interact with software.
   </p>
 </details>
