@@ -61,19 +61,18 @@ I'm an indie Full-stack web developer, building the stuffs that help and people 
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/rushikeshgandhmal?theme=dark&font=baloo&extension=null)
 
-<details>
-  <summary style="display: flex; align-items: center; gap: 6px; cursor: pointer;">
-    <span style="font-size: 1.3em;">👨‍💻</span>
-    <span style="font-size: 1.3em; font-weight: bold;">Coding Journey</span>
+<details style="border: 1px solid #444; border-radius: 8px; padding: 12px; background: #0d1117;">
+  <summary style="display: flex; align-items: center; gap: 8px; cursor: pointer; font-size: 1.2em; font-weight: bold; color: #58a6ff;">
+    <span>👨‍💻</span>
+    <span>Coding Journey</span>
   </summary>
 
-  <p align="left">
+  <div style="margin-top: 10px; color: #c9d1d9; line-height: 1.6;">
     
-    I began my coding journey as a curious computer science student eager to explore everything about programming — from core concepts to real-world applications.  
+    I began my coding journey as a curious computer science student eager to explore everything about programming — from core concepts to real-world applications.
     <br /><br />
-    Along the way, I taught myself web development with a dream of building my own app, which eventually helped me land my first software engineering role. I’ve since worked with multiple languages — Python, C, C++, Java, and JavaScript.  
+    Along the way, I taught myself web development with a dream of building my own app, which eventually helped me land my first software engineering role. I’ve since worked with multiple languages — Python, C, C++, Java, and JavaScript.
     <br /><br />
     Recently, I’ve been exploring Artificial Intelligence, focusing on Large Language Models (LLMs) and emerging AI trends such as generative applications and intelligent developer tools — learning how they can transform the way we build and interact with software.
-  </p>
+  </div>
 </details>
-
