@@ -62,14 +62,12 @@ I'm an indie Full-stack web developer, building the stuffs that help and people 
 ![LeetCode Stats](https://leetcode.card.workers.dev/rushikeshgandhmal?theme=dark&font=baloo&extension=null)
 
 <details>
-  <summary>
-    <p align="left" style="display:inline; font-size: 1.3em; font-weight: bold;">
-      👨‍💻 Coding Journey
-    </p>
+  <summary style="display: flex; align-items: center; gap: 6px; cursor: pointer;">
+    <span style="font-size: 1.3em;">👨‍💻</span>
+    <span style="font-size: 1.3em; font-weight: bold;">Coding Journey</span>
   </summary>
 
   <p align="left">
-    
     I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world — code, Unix, Linux, theory.  
     All the while, teaching myself web development with a dream to build my own app — a desire that landed me a software engineering job upon graduation.  
     Initially, I tried many languages like Python, C, C++, and JavaScript (and their frameworks, if any) — basically, if it was code, I was in!  
