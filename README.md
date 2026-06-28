@@ -1,104 +1,78 @@
-<p align="center">
-  <a href="https://github.com/RushikeshGandhmal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=1000&color=F7388D&center=true&width=500&lines=Rushikesh+Gandhmal" />
-  </a>
+<p align="center">   
+  <a href="https://github.com/RushikeshGandhmal"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=0001&pause=1000&color=F7388D&center=true&width=435&lines=Rushikesh+Gandhmal" alt="Typing SVG" /></a>
+  <p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7388D&center=true&width=435&lines=%F0%9F%92%BB+Full-stack+web+developer!;4%2B+years+of+professional+experience!;Always+learning+new+things!" 
+  alt="Typing SVG" />
+</a>
+</p>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F7388D&center=true&width=700&lines=💻+Senior+Software+Engineer;🤖+Building+AI+Agents+%26+Developer+Tools;🚀+Founder+%7C+Building+AI-Native+Products;⚡+Open+Source+Contributor" />
-</p>
+I'm an indie Full-stack web developer, building the stuffs that help and people enjoy. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ---
 
-I'm Rushikesh, a Software Engineer passionate about building AI-native products, developer tools, and intelligent systems.
+### 🧰 Languages and Tools
 
-Over the past **4.5+ years**, I've built products across startups, worked on AI developer tooling, VS Code extensions, agent workflows, and full-stack systems. I enjoy taking products from **0 → 1**, designing scalable architectures, and solving real engineering problems.
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Netxjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" />               
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" />
+<img align="left" alt="PL/SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
+<img align="left" alt="MY-SQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" />
+<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <br/> <br/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
+<img align="left" alt="Webpack" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" />
+<img align="left" alt="Babel" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" />
 
-Currently building AI products, contributing to open source, and exploring the future of AI agents.
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" />
 
----
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/firebase.png" />
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
-# 🚀 Building
 
-### Rivaly
-AI-powered competitor intelligence platform.
 
-https://rivaly-ai.vercel.app
+<br />
 
-### Onramp
-AI platform helping developers discover and contribute to open source.
+#
 
-https://onramp-ai.vercel.app
+<br/>
 
-### ForgeCode
-AI coding agent platform and developer tooling.
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/rushikeshgandhmal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-gandhmal/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rushikesh1s) 
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@rushikeshdotjs) 
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20455902/rushikesh-js)
 
-https://forgecode.dev
+#
 
----
+<br/>
 
-# 🧰 Tech Stack
-
-### AI
-OpenAI • Claude • Gemini • MCP • AI Agents • RAG
-
-### Frontend
-React • Next.js • TypeScript • Tailwind CSS • Zustand
-
-### Backend
-Node.js • Python • Express • PostgreSQL • MongoDB • Redis • Prisma
-
-### Cloud
-Docker • AWS • GitHub Actions • Vercel
-
-### Developer Tools
-VS Code Extensions • PostHog • Git • Linux
-
----
-
-# ❤️ Open Source
-
-• Cal.com
-
-• ForgeCode
-
-• Antinomy Documentation
-
-I enjoy contributing to products that developers use every day.
-
----
-
-# 🌐 Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://rushikesh-dev-three.vercel.app)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RushikeshGandhmal)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-gandhmal)
-
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://twitter.com/rushikesh1s)
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RushikeshGandhmal&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshGandhmal&layout=compact&theme=radical" />
-</p>
-
----
+![LeetCode Stats](https://leetcode.card.workers.dev/rushikeshgandhmal?theme=dark&font=baloo&extension=null)
 
 <details>
-<summary><b>👨‍💻 About Me</b></summary>
+  <summary style="display: flex; align-items: center; gap: 6px; cursor: pointer;">
+    <span style="font-size: 1.3em;">👨‍💻</span>
+    <span style="font-size: 1.3em; font-weight: bold;">Coding Journey</span>
+  </summary>
 
-I enjoy building products from scratch.
-
-Whether it's AI agents, developer tools, SaaS products, or open-source software, I like understanding the problem deeply, designing clean architectures, and shipping quickly.
-
-Outside of engineering, you'll usually find me experimenting with AI workflows, reading about distributed systems, contributing to open source, or watching anime.
-
+  <p align="left">
+    
+    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world — code, Unix, Linux, theory.  
+    All the while, teaching myself web development with a dream to build my own app — a desire that landed me a software engineering job upon graduation.  
+    Initially, I tried many languages like Python, C, C++, and JavaScript (and their frameworks, if any) — basically, if it was code, I was in!  
+    I experimented with multiple flavors and eventually worked with Java in my first company.  
+    Currently, I’m exploring the JavaScript world with a focus on frontend development using React.js.
+  </p>
 </details>
