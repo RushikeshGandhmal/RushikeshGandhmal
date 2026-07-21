@@ -20,16 +20,47 @@
 
 </div>
 
-I work where **AI behavior, product engineering and interaction design** meet. I build production agents, evaluation systems, developer tools and AI native products from idea to scale.
+## AI focus
 
-<p align="center">
-  <strong>4.5+ years</strong> building production systems &nbsp;·&nbsp;
-  <strong>2,500+ developers</strong> reached &nbsp;·&nbsp;
-  <strong>20+ evaluation scenarios</strong> designed &nbsp;·&nbsp;
-  <strong>2 AI products</strong> founded
+<div align="center">
+
+<img alt="AI agents" src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
+<img alt="LLM evaluations" src="https://img.shields.io/badge/LLM%20Evals-1D4ED8?style=for-the-badge" />
+<img alt="RAG" src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" />
+<img alt="MCP" src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" />
+<img alt="Tool calling" src="https://img.shields.io/badge/Tool%20Calling-B45309?style=for-the-badge" />
+<img alt="Interaction systems" src="https://img.shields.io/badge/Interaction%20Systems-0369A1?style=for-the-badge" />
+
+</div>
+
+## Engineering stack
+
+<div align="center">
+  <img alt="Python, TypeScript, JavaScript, Go, Java, Rust, React, Next.js, Node.js, Express, FastAPI, Spring, PostgreSQL, MongoDB, Redis, Prisma, Docker, Kubernetes, AWS, Linux, Bash, Git, GitHub Actions, VS Code, HTML, CSS, Tailwind and Vercel" src="https://skillicons.dev/icons?i=python,ts,js,go,java,rust,react,nextjs,nodejs,express,fastapi,spring,postgres,mongodb,redis,prisma,docker,kubernetes,aws,linux,bash,git,githubactions,vscode,html,css,tailwind,vercel&amp;perline=10" />
+</div>
+
+## Dependable AI, from behavior to production
+
+<div align="center">
+
+<h3>I build AI agents and software products that behave predictably in real workflows.</h3>
+
+<p>
+Evaluated for correctness. Designed for clear human control. Engineered to recover, scale and hold up in production.
 </p>
 
-> Tiny AI interactions, motion studies and design engineering notes on <a href="https://x.com/rushikesh1s"><strong>X @rushikesh1s</strong></a>.
+<p>
+  <img alt="4.5+ years in production engineering" src="https://img.shields.io/badge/4.5%2B%20years-Production%20engineering-111827?style=flat-square" />
+  <img alt="More than 2,500 developers reached" src="https://img.shields.io/badge/2%2C500%2B-Developers%20reached-1D4ED8?style=flat-square" />
+  <img alt="More than 20 evaluation scenarios designed" src="https://img.shields.io/badge/20%2B-Evaluation%20scenarios-0F766E?style=flat-square" />
+  <img alt="Two AI native products founded and built" src="https://img.shields.io/badge/2%20AI%20products-Founded%20%26%20built-7C3AED?style=flat-square" />
+</p>
+
+<p>
+  <a href="https://x.com/rushikesh1s"><strong>Interaction studies, motion experiments and design engineering notes → @rushikesh1s</strong></a>
+</p>
+
+</div>
 
 ## What I build
 
@@ -125,25 +156,6 @@ I built the complete SaaS workflow across data collection, analysis, alerts and 
 </p>
 
 </details>
-
-## AI focus
-
-<div align="center">
-
-<img alt="AI agents" src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
-<img alt="LLM evaluations" src="https://img.shields.io/badge/LLM%20Evals-1D4ED8?style=for-the-badge" />
-<img alt="RAG" src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" />
-<img alt="MCP" src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" />
-<img alt="Tool calling" src="https://img.shields.io/badge/Tool%20Calling-B45309?style=for-the-badge" />
-<img alt="Interaction systems" src="https://img.shields.io/badge/Interaction%20Systems-0369A1?style=for-the-badge" />
-
-</div>
-
-## Engineering stack
-
-<div align="center">
-  <img alt="Python, TypeScript, JavaScript, Go, Java, Rust, React, Next.js, Node.js, Express, FastAPI, Spring, PostgreSQL, MongoDB, Redis, Prisma, Docker, Kubernetes, AWS, Linux, Bash, Git, GitHub Actions, VS Code, HTML, CSS, Tailwind and Vercel" src="https://skillicons.dev/icons?i=python,ts,js,go,java,rust,react,nextjs,nodejs,express,fastapi,spring,postgres,mongodb,redis,prisma,docker,kubernetes,aws,linux,bash,git,githubactions,vscode,html,css,tailwind,vercel&amp;perline=10" />
-</div>
 
 ## Writing
 
